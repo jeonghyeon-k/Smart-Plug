@@ -1,7 +1,25 @@
-# SMART PLUG HARDWARE
-<br><br>
+# SMART PLUG 
+<br>
 
-| MODULES |  |
+[ ` 👉 Demonstration ` ](https://drive.google.com/file/d/12r7HJeJhrjO5mxbx8t_fU2SEgAonm5Fd/view?usp=sharing)
+<br>
+<br>
+
+### PREVIEW
+<img src="./asset/스크린샷.png" alt="drawing" width="500"/>
+
+<br>
+<br>
+<br>
+<br>
+
+
+# HARDWARE
+<br>
+<br>
+
+### MODULES
+|  |  |
 | :----: | :----: |
 | `arduino` | arduino Uno |
 | `shield` | arduino shield | 
