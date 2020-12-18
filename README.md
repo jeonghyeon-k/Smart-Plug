@@ -2,7 +2,7 @@
 <br><br>
 
 | MODULES |  |
-|---|:---:|---:|
+| :----: | :----: |
 | `arduino` | arduino Uno |
 | `shield` | arduino shield | 
 | `bluetooth` | HM-10 | 
