@@ -2,7 +2,7 @@
 <br><br>
 
 | MODULES |  |
-|---|:---:|---:|
+| :----: | :----: |
 | `arduino` | arduino Uno |
 | `shield` | arduino shield | 
 | `bluetooth` | HM-10 | 
@@ -10,7 +10,6 @@
 | `current sensor` | acs712 | 
 | `socket` |250v 10a 2 outlet power strip|
 | `LCD` | LCD 1602 |
-
 
 <br>
 
