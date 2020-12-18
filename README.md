@@ -1,21 +1,23 @@
 # SMART PLUG HARDWARE
 <br><br>
 
-| MODULES |  |
+### MODULES
+
+|  |  |
 | :----: | :----: |
-| `arduino` | arduino Uno |
-| `shield` | arduino shield | 
-| `bluetooth` | HM-10 | 
-| `relay` | lv.1 Relay |
-| `current sensor` | acs712 | 
-| `socket` |250v 10a 2 outlet power strip|
+| `ARDUINO` | arduino Uno |
+| `SHIELD` | arduino shield | 
+| `BLUETOOTH` | HM-10 | 
+| `RELAY` | lv.1 Relay |
+| `CURRENT SENSOR` | acs712 | 
+| `SOCKET` |250v 10a 2 outlet power strip|
 | `LCD` | LCD 1602 |
 
 <br>
 
 ### CIRCUIT
 <br>
-<img src="./asset/회로도.png" alt="drawing" width="400"/>
+<img src="./asset/회로도.png" alt="drawing" width="500"/>
 
 
 <br><br>
@@ -23,6 +25,8 @@
 
 
 # DETAIL
+
+<br>
 
 ## OUTLET
 
